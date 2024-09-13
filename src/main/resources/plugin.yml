@@ -1,0 +1,4 @@
+name: TagsSystem
+version: '1.0-SNAPSHOT'
+main: the.david.tagsSystem.TagsSystem
+api-version: '1.21'
